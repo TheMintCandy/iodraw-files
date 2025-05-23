@@ -25,8 +25,16 @@
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-5" value="商品信息是否完整" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
