@@ -31,7 +31,7 @@
           <mxGeometry x="280" y="280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-12" value="提示用户商品信息不通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="350" width="90" height="40" as="geometry" />
+          <mxGeometry x="80" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-15" value="商品信息通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="320" width="90" height="40" as="geometry" />
