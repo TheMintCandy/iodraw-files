@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="10" width="100" height="50" as="geometry" />
         </mxCell>
