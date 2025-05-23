@@ -57,6 +57,9 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="235" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-41" value="是否删除订单信息" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
