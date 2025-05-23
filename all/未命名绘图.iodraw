@@ -21,6 +21,9 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-5" target="QpKs2rP28y9qlLBEIcVx-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-5" target="QpKs2rP28y9qlLBEIcVx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-5" value="是否通过商品信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="200" width="120" height="70" as="geometry" />
         </mxCell>
@@ -31,7 +34,7 @@
           <mxGeometry x="280" y="280" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-12" value="提示用户商品信息不通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="90" height="40" as="geometry" />
+          <mxGeometry x="80" y="215" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-15" value="商品信息通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="320" width="90" height="40" as="geometry" />
