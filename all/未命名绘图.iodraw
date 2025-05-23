@@ -39,13 +39,12 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-9" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="280" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-12">
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="580" as="targetPoint" />
+            <mxPoint x="399" y="580" as="targetPoint" />
+            <mxPoint x="234" y="255" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="235" y="430" />
-              <mxPoint x="210" y="430" />
-              <mxPoint x="210" y="580" />
+              <mxPoint x="234" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
