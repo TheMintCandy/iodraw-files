@@ -43,8 +43,13 @@
         <mxCell id="pdo0rs2cYibptTYjZHdW-11" value="提示非空信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="190" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pdo0rs2cYibptTYjZHdW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pdo0rs2cYibptTYjZHdW-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pdo0rs2cYibptTYjZHdW-14" value="判断用户名和密码&lt;div&gt;是否正确&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290" width="160" height="70" as="geometry" />
+          <mxGeometry x="320" y="290" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
