@@ -70,6 +70,9 @@
         <mxCell id="pdo0rs2cYibptTYjZHdW-19" value="登陆成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="400" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pdo0rs2cYibptTYjZHdW-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
