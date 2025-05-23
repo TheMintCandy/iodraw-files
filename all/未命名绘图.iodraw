@@ -50,8 +50,8 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-12" value="提示商品信息不完整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="215" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-15" value="填写商品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="120" width="90" height="40" as="geometry" />
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-15" value="发布商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="320" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
