@@ -30,7 +30,7 @@
             <mxPoint x="280" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-5" value="商品信息是否完整" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-5" value="是否通过商品信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
