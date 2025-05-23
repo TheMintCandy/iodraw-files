@@ -54,14 +54,6 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-15" value="发布商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="80" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="481" y="435" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="520" as="targetPoint" />
