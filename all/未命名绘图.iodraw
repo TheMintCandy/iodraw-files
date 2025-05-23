@@ -39,8 +39,8 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-9" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="280" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-12" value="填写商品信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="120" width="90" height="40" as="geometry" />
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-12" value="提示商品信息不完整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="215" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
