@@ -48,7 +48,7 @@
           <mxGeometry x="340" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-25" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="580" width="100" height="50" as="geometry" />
+          <mxGeometry x="230" y="560" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-12" target="QpKs2rP28y9qlLBEIcVx-12">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,10 @@
           <mxGeometry x="235" y="400" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-36" value="管理员&lt;div&gt;商品信息管理页面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237.5" y="120" width="105" height="40" as="geometry" />
+          <mxGeometry x="227.5" y="480" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-36" target="QpKs2rP28y9qlLBEIcVx-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
