@@ -39,6 +39,11 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-9" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="280" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="593.072021484375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-12" value="提示用户商品信息不通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="215" width="90" height="40" as="geometry" />
         </mxCell>
