@@ -10,21 +10,26 @@
         <mxCell id="pdo0rs2cYibptTYjZHdW-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="10" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pdo0rs2cYibptTYjZHdW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pdo0rs2cYibptTYjZHdW-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pdo0rs2cYibptTYjZHdW-2" value="填写登录信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdo0rs2cYibptTYjZHdW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pdo0rs2cYibptTYjZHdW-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="316" y="210" />
+              <mxPoint x="316" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pdo0rs2cYibptTYjZHdW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pdo0rs2cYibptTYjZHdW-2" target="pdo0rs2cYibptTYjZHdW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="targetPoint" />
+            <mxPoint x="400" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdo0rs2cYibptTYjZHdW-4" value="非空验证" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="200" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="180" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
