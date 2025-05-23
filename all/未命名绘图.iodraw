@@ -69,6 +69,11 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-36" target="QpKs2rP28y9qlLBEIcVx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-41" value="是否删除商品信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="120" height="70" as="geometry" />
         </mxCell>
