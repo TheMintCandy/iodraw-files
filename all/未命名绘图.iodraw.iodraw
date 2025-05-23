@@ -30,6 +30,10 @@
         <mxCell id="pdo0rs2cYibptTYjZHdW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pdo0rs2cYibptTYjZHdW-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="120" />
+              <mxPoint x="256" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pdo0rs2cYibptTYjZHdW-11" value="提示非空信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
