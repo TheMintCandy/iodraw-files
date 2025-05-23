@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-41" value="是否删除订单信息" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-41" value="是否删除订单" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="200" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
