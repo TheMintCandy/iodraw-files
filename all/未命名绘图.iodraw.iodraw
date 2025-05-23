@@ -67,7 +67,7 @@
         <mxCell id="pdo0rs2cYibptTYjZHdW-16" value="提示用户名或密码错误" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="305" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pdo0rs2cYibptTYjZHdW-19" value="填写登录信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pdo0rs2cYibptTYjZHdW-19" value="登陆成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="400" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
