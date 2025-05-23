@@ -10,7 +10,7 @@
         <mxCell id="QpKs2rP28y9qlLBEIcVx-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="10" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-3">
+        <mxCell id="QpKs2rP28y9qlLBEIcVx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-3" target="QpKs2rP28y9qlLBEIcVx-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="200" as="targetPoint" />
           </mxGeometry>
@@ -23,13 +23,8 @@
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QpKs2rP28y9qlLBEIcVx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QpKs2rP28y9qlLBEIcVx-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="235" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-5" value="是否通过商品信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="70" as="geometry" />
+          <mxGeometry x="100" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QpKs2rP28y9qlLBEIcVx-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="130" width="30" height="30" as="geometry" />
