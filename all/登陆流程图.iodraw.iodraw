@@ -166,6 +166,9 @@
         <mxCell id="pdo0rs2cYibptTYjZHdW-47" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;是&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="305" y="180" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pdo0rs2cYibptTYjZHdW-48" value="二手交易平台" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="260" y="40" width="360" height="660" as="geometry" />
+        </mxCell>
         <mxCell id="pdo0rs2cYibptTYjZHdW-49" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="260" width="30" height="60" as="geometry" />
         </mxCell>
