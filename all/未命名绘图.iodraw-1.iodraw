@@ -7,7 +7,7 @@
         <mxCell id="0Igwv3XAWu5VfLoRdtXl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Igwv3XAWu5VfLoRdtXl-2" target="0Igwv3XAWu5VfLoRdtXl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Igwv3XAWu5VfLoRdtXl-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0Igwv3XAWu5VfLoRdtXl-2" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Igwv3XAWu5VfLoRdtXl-3" value="填写登录信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="0Igwv3XAWu5VfLoRdtXl-20" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;是&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="305" y="180" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Igwv3XAWu5VfLoRdtXl-21" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;是&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="0Igwv3XAWu5VfLoRdtXl-21" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;否&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="389" y="440" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
