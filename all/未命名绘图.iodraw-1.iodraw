@@ -77,13 +77,16 @@
           <mxGeometry x="355" y="480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Igwv3XAWu5VfLoRdtXl-18" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;是&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="389" y="440" width="50" height="40" as="geometry" />
+          <mxGeometry x="389" y="360" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Igwv3XAWu5VfLoRdtXl-19" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;否&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Igwv3XAWu5VfLoRdtXl-20" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;是&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="305" y="180" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Igwv3XAWu5VfLoRdtXl-21" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;是&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="399" y="370" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
